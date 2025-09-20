@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kalvin Angelito Ang</h1>
+<h1 align="center">Kroniichiwa 👋, I'm Kalvin Angelito Ang</h1>
 
 <h3 align="center">Full Stack Developer | Web & Software Engineer</h3>
 
