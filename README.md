@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRpMThqMmM0empvbHdmc2RxaGxhZzcwY2R5dGJoa21oOXVnZW83MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tw3OO1YvilPIBrlaRC/giphy.gif" width="250" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlkY2YxN3dzMmFwZ2Q3OXVzcG5vdGxzeHlkaXlzaGJtc3pkeWo4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hx48Na3LBp1Dy/giphy.gif" width="250" />
 </p>
 
 <h1 align="center">Kroniichiwa 👋, I'm Kalvin Angelito Ang</h1>
