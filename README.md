@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/jROan5SkxO0AAAAC/miku-miku-hatsune.gif" width="250" />
-</p>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media1.tenor.com/m/jROan5SkxO0AAAAC/miku-miku-hatsune.gif" width="150" />
+  <h1 style="margin: 0 20px;">Kroniichiwa 👋, I'm Kalvin Angelito Ang</h1>
+  <img src="https://media1.tenor.com/m/WMJH8DMFNMQAAAAC/miku-hatsune-miku.gif" width="150" />
+</div>
 
-<h1 align="center">Kroniichiwa 👋, I'm Kalvin Angelito Ang</h1>
 
 
 <h3 align="center">Full Stack Developer | Web & Software Engineer</h3>
