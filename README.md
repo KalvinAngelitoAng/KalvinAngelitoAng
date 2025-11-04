@@ -4,7 +4,7 @@
       <img src="https://media1.tenor.com/m/jROan5SkxO0AAAAC/miku-miku-hatsune.gif" width="150" />
     </td>
     <td style="border: 0; text-align: center; padding: 0 20px;">
-      <h1 style="margin: 0;">Kroniichiwa 👋, I'm Kalvin Angelito Ang</h1>
+      <h1 style="margin: 0;">Kroniichiwa 👋, Kalvin Angelito Ang Desu~</h1>
     </td>
     <td style="border: 0;">
       <img src="https://media1.tenor.com/m/WMJH8DMFNMQAAAAC/miku-hatsune-miku.gif" width="150" />
