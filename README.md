@@ -1,19 +1,16 @@
-<div align="center" style="margin:0;">
-  <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin:0;">
-    <tr>
-      <td style="padding: 0;">
-        <img src="https://media1.tenor.com/m/jROan5SkxO0AAAAC/miku-miku-hatsune.gif" width="150" alt="GIF Kiri" />
-      </td>
-      <td style="padding: 0 20px; text-align: center; vertical-align: middle;">
-        <span style="font-size: 32px; font-weight: bold; line-height: 1;">Kroniichiwa 👋, I'm Kalvin Angelito Ang</span>
-      </td>
-      <td style="padding: 0;">
-        <img src="https://media1.tenor.com/m/WMJH8DMFNMQAAAAC/miku-hatsune-miku.gif" width="150" alt="GIF Kanan" />
-      </td>
-    </tr>
-  </table>
-</div>
-
+<table align="center" style="border: 0; border-collapse: collapse;">
+  <tr>
+    <td style="border: 0;">
+      <img src="https://media1.tenor.com/m/jROan5SkxO0AAAAC/miku-miku-hatsune.gif" width="150" />
+    </td>
+    <td style="border: 0; text-align: center; padding: 0 20px;">
+      <h1 style="margin: 0;">Kroniichiwa 👋, Kalvin Angelito Ang Desu~</h1>
+    </td>
+    <td style="border: 0;">
+      <img src="https://media1.tenor.com/m/WMJH8DMFNMQAAAAC/miku-hatsune-miku.gif" width="150" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Full Stack Developer | Web & Software Engineer</h3>
 
