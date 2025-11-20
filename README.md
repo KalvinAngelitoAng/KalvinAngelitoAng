@@ -22,10 +22,8 @@ With a strong foundation in both frontend and backend technologies, I strive to 
 ---
 
 ### 🔹 About Me
-- 🎯 Currently deepening knowledge in **Advanced Python**, **Gin (Go Framework)**, and **Angular**  
-- 💻 Experienced in **full stack development** (React, Vue, Node.js, Express, SQL/NoSQL Databases. Laravel)  
-- 🚀 Passionate about **modern web technologies, system design, and cloud deployment**  
-- 📫 Reach me at **kalvinangelitoang88@gmail.com**  
+- I Love **Hatsune Miku**🩵
+- Reach me at **kalvinangelitoang88@gmail.com**  
 
 ---
 
